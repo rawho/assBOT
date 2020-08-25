@@ -38,5 +38,8 @@ Then Wait for few seconds and you can see a new pdf file is created in the same 
 
 ## Few Tips
 - Probably if you follow above steps, You will get a pdf file, Inside it you can see that the code snippets is not highlighted, inorder to enable it, you can change the settings of the extension **Markdown PDF**
-- for that press `ctl + ,` it will open the settings.
-- from there go to **extensions** and **markdown pdf**, scroll down and  change the highlight style. There is a dropdown. You can select any one from it. My suggestion is *a11y-dark.css*
+ 
+    for that press `ctl + ,` it will open the settings.
+
+    from there go to **extensions** and **markdown pdf**, scroll down and  change the highlight style. There is a dropdown. You can select any one from it. My suggestion is *a11y-dark.css*
+- for converting to pdf instead of searching, you can just right-click, there you can see the option to export
