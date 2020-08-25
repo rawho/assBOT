@@ -7,7 +7,7 @@ I created this because, i am not getting ready with latex to create PDF, so i th
 ## Pre-requisites
 1. VScode should be installed
 2. You have to install an extension in VScode -> **Markdown PDF**
-3. (*optional*) It is better to install **Markdown All in One** extension also, This helps to edit markdown files easily. 
+3. install **Markdown All in One** extension also. 
 
 ## Installation
     pip install fire
