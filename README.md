@@ -10,6 +10,8 @@ I created this because, i am not getting ready with latex to create PDF, so i th
 3. install **Markdown All in One** extension also. 
 
 ## Installation
+open a terminal window and type:
+
     pip install fire
     git clone https://github.com/rawho/assBOT.git
     cd assBOT
