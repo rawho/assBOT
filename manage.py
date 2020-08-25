@@ -3,7 +3,7 @@ import os
 import shutil
 
 
-def hello(name):
+def create(name):
     try:
         os.mkdir(f"{name}")
         shutil.copy2('cet-logo.jpeg', f'{name}/cet-logo.jpeg')
@@ -186,4 +186,4 @@ executed in Ubuntu and the above output was obtained.
     
 
 if __name__ == '__main__':
-    fire.Fire(hello)
+    fire.Fire()
