@@ -4,6 +4,8 @@ This is a Command Line Interface (CLI) created using python. Using this you can 
 
 I created this because, i am not getting ready with latex to create PDF, so i think of an alternative. What about creating PDF from our favourite markdown language!!
 
+Actually inspired from my friend's Project [kickass](https://github.com/Roshan-R/kickass), Which is a one step c assignment maker!!
+
 ## Pre-requisites
 1. VScode should be installed
 2. You have to install an extension in VScode -> **Markdown PDF**
