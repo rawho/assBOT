@@ -15,12 +15,17 @@ def create(name):
         r"""
 <style>
     body{  
+       max-width: 80%;
+       margin: auto;
+       font-family: 'Times New Roman', Times, serif;
+       line-height: 2rem;
     }  
     .main-page{
         max-width: 80%;
         min-height: 100vh;
         margin: auto;
         text-align: center;
+        line-height: 1rem;
     } 
     .clg-name{
         font-size: 30px;
@@ -53,7 +58,7 @@ def create(name):
     <p class="name">Rahul T</p>
     <p class="name">S3 CSE Roll No:53</p>
     <br>
-    <p class="name">TVE10CS053</p>
+    <p class="name">TVE19CS053</p>
     <p class="dept-name">
         Department of Computer Science <br><br>
         Aug 20, 2020
@@ -76,7 +81,7 @@ are connected to which other nodes. Each node then independently calculates the 
 it to every possible destination in the network. Each collection of best paths will then form each node’s routing
 table.
 
-## Algorith
+## Algorithm
 ```algorithm
 START
    Step 1:  Take integer variable A
@@ -135,7 +140,7 @@ are connected to which other nodes. Each node then independently calculates the 
 it to every possible destination in the network. Each collection of best paths will then form each node’s routing
 table.
 
-## Algorith
+## Algorithm
 ```algorithm
 START
    Step 1:  Take integer variable A
