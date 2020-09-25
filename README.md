@@ -47,3 +47,5 @@ Then Wait for few seconds and you can see a new pdf file is created in the same 
 
     from there go to **extensions** and **markdown pdf**, scroll down and  change the highlight style. There is a dropdown. You can select any one from it. My suggestion is *a11y-dark.css*
 - for converting to pdf instead of searching, you can just right-click, there you can see the option to export
+
+You can see some examples [here](https://github.com/rawho/assBOT/tree/master/examples)
