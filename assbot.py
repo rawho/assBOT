@@ -2,7 +2,7 @@ import fire
 import os
 import shutil
 
-
+# nice code rahul
 def create(name):
     try:
         os.mkdir(f"{name}")
@@ -174,7 +174,7 @@ int main() {
    return 0;
 }
 ```
-## Output
+## Output 
 
 ![alt text](demo.png "Title")
 
